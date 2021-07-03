@@ -1,1 +1,1 @@
-This is blabbygirl's first git project
+This is Jane Field's first git project
